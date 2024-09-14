@@ -1,0 +1,4 @@
+aws_region      = "AWS_REGION"        # aws region used
+project         = "Adopt-a-Saurus"
+billing_code    = "007"
+instance_type   = "t2.micro"
